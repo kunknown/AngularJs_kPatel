@@ -1,0 +1,16 @@
+{
+  "name": "angularjs_kpatel",
+  "version": "1.0.0",
+  "description": "angular version of kPatel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K.P.",
+  "license": "ISC",
+  "dependencies": {
+    "angularfire": "^2.3.0",
+    "firebase": "^5.8.6",
+    "firebase-admin": "^7.0.0"
+  }
+}
