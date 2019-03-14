@@ -1,6 +1,6 @@
 var app = angular.module('app', ['ngRoute', 'ngAnimate', 'firebase']);
 
-//GLOBAL ID ARRAY
+//GLOBAL ID ARRAY.
 var S_IDS = [];
 var T_IDS = [];
 
