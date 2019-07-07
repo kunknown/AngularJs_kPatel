@@ -8,12 +8,12 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyCUv8EmWnItWr9P6b9IxKfifJBa_X8ez84",
+    apiKey: "",
     authDomain: "visual-ticket-board.firebaseapp.com",
     databaseURL: "https://visual-ticket-board.firebaseio.com",
     projectId: "visual-ticket-board",
     storageBucket: "visual-ticket-board.appspot.com",
-    messagingSenderId: "432045164475"
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
